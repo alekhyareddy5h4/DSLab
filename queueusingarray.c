@@ -1,4 +1,4 @@
-83% of storage used … If you run out of space, you can't save to Drive or back up Google Photos. Get 30 GB of storage for ?59 ?15/month for 2 months.
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -103,4 +103,5 @@ int main()
 
     return 0;
 }
+
 
